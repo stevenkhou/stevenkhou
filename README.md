@@ -1,5 +1,5 @@
 # 💫 About Me:
-Second-year computer engineering student at Toronto Metropolitan University.<br><br>Furnished with a passion for computer science and its related disciplines.<br><br>Dedicated to the lifelong journey of perpetual learning and growth in this industry.
+Furnished with a passion for computer science and its related disciplines.<br><br>Dedicated to the lifelong journey of perpetual learning and growth in this industry.
 
 
 ## 🌐 Socials:
